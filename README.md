@@ -21,5 +21,5 @@ HTML, Pug, Gulp, Less
 
 * Выбор количества донатов на странице донатов
 
-* Доступно на 3х разрешениях - desktop, tablet and mobile.
+* Responsive layout - 4 widths: mobile, table, small desktop, big desktop
 
